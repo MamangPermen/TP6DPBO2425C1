@@ -84,4 +84,5 @@ Modularitas | Setiap kelas punya tugas spesifik (sesuai Single Responsibility) |
 
 ## 📸 Dokumentasi
 
-https://github.com/MamangPermen/TP6DPBO2425C1/blob/main/Documentation/SRecord.mp4
+Uploading SRecord.mp4…
+
