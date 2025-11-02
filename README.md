@@ -85,6 +85,5 @@ Modularitas | Setiap kelas punya tugas spesifik (sesuai Single Responsibility) |
 ## 📸 Dokumentasi
 
 
-Uploading SRecord.mp4…
-
+https://github.com/user-attachments/assets/c4a643a8-8836-4bf1-ba96-0ec8de843550
 
